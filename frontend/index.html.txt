@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <title>SAY AI</title>
-  </head>
-  <body>
-    <div id="app">SAY AI funcionando</div>
-    <script type="module" src="/src/main.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <title>SAY AI</title>
+</head>
+<body>
+  <div id="app"></div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
 </html>
